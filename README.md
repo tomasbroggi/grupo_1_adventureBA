@@ -10,13 +10,29 @@ Breve descripción del público al que apunta el sitio:
 Apunta a un público turista tanto nacional como internacional,viajeros de negocios, que puedan encontrar, consultar y adquirir en un solo lugar todas las opciones y ofertas culturales de buenos aires. 
 
 Breve descripción de los integrantes del equipo:
-Maria Zeva
+
+Maria Zevaoglu
+
+Florencia Roqueta
+
+Carolina Salvucci
+
+
+Tomas Ricardi
+
+Joaquin Albarracin
+
+Javier Nieva
 
 
 Listado de páginas de referencia:
 
 https://www.bigbox.com.ar/
+
 https://goldenpack.com.ar/
+
 https://www.yeah.com.ar/
+
 https://www.abriendorutas.tur.ar/
+
 https://fanbag.com.ar/
