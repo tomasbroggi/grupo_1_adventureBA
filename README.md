@@ -16,6 +16,8 @@ Maria Zevaoglu -
 Hobby: Viajes y gastronomía 
 
 Florencia Roqueta
+Áreas de experiencia:  Comunicación institucional y marketing
+Hobby: Gastronomía y deportes
 
 Carolina Salvucci
 
