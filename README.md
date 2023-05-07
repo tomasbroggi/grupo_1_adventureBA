@@ -11,7 +11,9 @@ Apunta a un público turista tanto nacional como internacional,viajeros de negoc
 
 Breve descripción de los integrantes del equipo:
 
-Maria Zevaoglu
+Maria Zevaoglu -
+Áreas de experiencia:  Comunicaciones estratégicas en distintas instituciones 
+Hobby: Viajes y gastronomía 
 
 Florencia Roqueta
 
