@@ -25,7 +25,7 @@ Carolina Salvucci
 Tomas Ricardi
 
 Joaquin Albarracin -
-Estudiante de Cs de Datos (UBA)
+Estudiante de Cs de Datos (UBA) -
 Hobby: Fútbol
 
 Javier Nieva
