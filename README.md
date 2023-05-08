@@ -27,6 +27,8 @@ Tomas Ricardi
 Joaquin Albarracin
 
 Javier Nieva
+Áreas de experiencia: Consultoría funcional y de negocios en Salesforce
+Hobby: Viajes
 
 
 Listado de páginas de referencia:
