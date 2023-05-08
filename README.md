@@ -24,7 +24,9 @@ Carolina Salvucci
 
 Tomas Ricardi
 
-Joaquin Albarracin
+Joaquin Albarracin -
+Estudiante de Cs de Datos (UBA)
+Hobby: Fútbol
 
 Javier Nieva
 Áreas de experiencia: Consultoría funcional y de negocios en Salesforce
