@@ -20,7 +20,8 @@ Florencia Roqueta
 Hobby: Gastronomía y deportes
 
 Carolina Salvucci
-
+Licenciada en Nutrición
+Hobby: Cocina, deportes y teatro
 
 Tomas Ricardi
 
